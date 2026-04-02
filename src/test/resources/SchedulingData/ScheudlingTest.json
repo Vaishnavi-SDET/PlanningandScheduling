@@ -1,0 +1,19 @@
+{
+  "createScheduling": {
+    "name": "Vaishnavi",
+    "salary": "85200",
+    "age": "30"
+  },
+  "updateScheduling": {
+    "name": "Vaishnavi",
+    "salary": "89000",
+    "age": "30",
+    "id": "38"
+  },
+  "deleteScheduling": {
+    "id": "35"
+  },
+  "getSingleScheduling": {
+    "id": "1"
+  }
+}
